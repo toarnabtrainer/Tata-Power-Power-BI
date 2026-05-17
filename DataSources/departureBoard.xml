@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DepartureBoard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://open-api.bahn.de/bin/rest.exe/v1.0/xsd?name=hafasRestDepartureBoard.xsd">
+<Departure name="IC 2067" type="IC"  stopid="8000096" stop="Stuttgart Hbf"  time="12:08" date="2020-02-22" direction="Nürnberg Hbf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=18117%2F6958%2F831744%2F409834%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="ICE 515" type="ICE"  stopid="8000096" stop="Stuttgart Hbf"  time="12:14" date="2020-02-22" direction="München Hbf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=11919%2F5569%2F771602%2F381828%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="IC 187" type="IC"  stopid="8000096" stop="Stuttgart Hbf"  time="12:29" date="2020-02-22" direction="Zürich HB">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=649353%2F219288%2F833728%2F200413%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="ICE 918" type="ICE"  stopid="8000096" stop="Stuttgart Hbf"  time="12:36" date="2020-02-22" direction="Dortmund Hbf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=123861%2F43670%2F204348%2F60887%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="ICE 598" type="ICE"  stopid="8000096" stop="Stuttgart Hbf"  time="12:51" date="2020-02-22" direction="Berlin Gesundbrunnen">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=746736%2F250721%2F656506%2F79341%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="IC 2265" type="IC"  stopid="8000096" stop="Stuttgart Hbf"  time="12:54" date="2020-02-22" direction="München Hbf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=273687%2F92401%2F896652%2F357097%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="IC 2012" type="IC"  stopid="8000096" stop="Stuttgart Hbf"  time="13:12" date="2020-02-22" direction="Dortmund Hbf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=705387%2F235905%2F995914%2F262828%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="ICE 595" type="ICE"  stopid="8000096" stop="Stuttgart Hbf"  time="13:14" date="2020-02-22" direction="München Hbf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=5421%2F3600%2F649418%2F322902%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="IC 2387" type="IC"  stopid="8000096" stop="Stuttgart Hbf"  time="13:16" date="2020-02-22" direction="Singen&amp;#x0028;Hohentwiel&amp;#x0029;">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=101775%2F35246%2F547122%2F239638%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="ICE 576" type="ICE"  stopid="8000096" stop="Stuttgart Hbf"  time="13:23" date="2020-02-22" direction="Hamburg-Altona">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=884853%2F296671%2F335320%2F127291%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="ICE 518" type="ICE"  stopid="8000096" stop="Stuttgart Hbf"  time="13:51" date="2020-02-22" direction="Dortmund Hbf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=785955%2F263588%2F603134%2F39582%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="IC 2068" type="IC"  stopid="8000096" stop="Stuttgart Hbf"  time="13:58" date="2020-02-22" direction="Karlsruhe Hbf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=537282%2F180019%2F897748%2F269780%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="EC 219" type="EC"  stopid="8000096" stop="Stuttgart Hbf"  time="13:58" date="2020-02-22" direction="Graz Hbf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=683988%2F230861%2F781782%2F162895%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="EC 218" type="EC"  stopid="8000096" stop="Stuttgart Hbf"  time="14:04" date="2020-02-22" direction="Frankfurt&amp;#x0028;Main&amp;#x0029;Hbf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=993153%2F333912%2F943776%2F140837%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="IC 2069" type="IC"  stopid="8000096" stop="Stuttgart Hbf"  time="14:07" date="2020-02-22" direction="Nürnberg Hbf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=919290%2F307359%2F471694%2F70583%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="ICE 517" type="ICE"  stopid="8000096" stop="Stuttgart Hbf"  time="14:14" date="2020-02-22" direction="München Hbf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=268890%2F91230%2F960754%2F390747%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="IC 189" type="IC"  stopid="8000096" stop="Stuttgart Hbf"  time="14:29" date="2020-02-22" direction="Zürich HB">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=950802%2F319771%2F857980%2F112057%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="ICE 596" type="ICE"  stopid="8000096" stop="Stuttgart Hbf"  time="14:51" date="2020-02-22" direction="Berlin Hbf &amp;#x0028;tief&amp;#x0029;">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=134157%2F46519%2F69746%2F9846%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="TGV 9592" type="TGV"  stopid="8000096" stop="Stuttgart Hbf"  time="14:54" date="2020-02-22" direction="Paris Est">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=72021%2F27274%2F172650%2F62318%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+<Departure name="IC 2013" type="IC"  stopid="8000096" stop="Stuttgart Hbf"  time="14:58" date="2020-02-22" direction="Oberstdorf">
+<JourneyDetailRef ref="https://open-api.bahn.de/bin/rest.exe/v1.0/journeyDetail?ref=404844%2F135728%2F548340%2F139222%2F80%3Fdate%3D2020-02-22%26station_evaId%3D8000096%26station_type%3Ddep%26authKey%3DDBhackFrankfurt0316%26lang%3Dde%26" />
+</Departure>
+</DepartureBoard>
