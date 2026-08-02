@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/6252f2a4-296c-4b7d-a0a5-5891815f1fb2)
+![image](https://github.com/user-attachments/assets/8a37ad88-a06a-4750-8b42-9f6bfba407c9)
 
 ---
 
@@ -14,7 +14,7 @@ Dr. Arnab Chakraborty is a seasoned technology educator, corporate trainer, and 
 
 As a **trainer and consultant**, Dr. Chakraborty has designed and delivered high-impact programs on **Data Analytics, AI/ML with Python, Advanced MS Excel and Power BI, Project Management & MS-Project, Agile & Scrum, Six Sigma & Quality Management, Unix/Shell Scripting, Databases, Industrial Automation, and core CS subjects** for leading organizations including banks, manufacturing majors, IT/ITES companies, energy and infrastructure firms, as well as premier engineering and management institutes. He is widely appreciated for his ability to **translate complex technical and analytical concepts into practical, implementation-focused learning**, and for mentoring students and professionals in **final-year projects, technical interviews, and competitive examinations** such as GATE and NET. 
 
-Academically, he holds a **Doctor of Business Administration (SSBM Geneva)** with research on global semiconductor shortages, an **M.Tech and B.Tech in Computer Science & Engineering** from the University of Calcutta, and an **MBA** with First Class First rank. His profile is strengthened by a rich portfolio of **global certifications** including **PMI-ACP, CSPO, CSM, ITIL Foundation, Lean Six Sigma Black Belt & Master Black Belt, Azure Fundamentals, Star Python, Kaggle certifications, TigerGraph certifications, Industrial Automation, and multiple AI/RPA and analytics credentials.** 
+Academically, he holds a **Doctor of Business Administration (SSBM Geneva)** with research on global semiconductor shortages, an **M.Tech and B.Tech in Computer Science & Engineering** from the University of Calcutta, and an **MBA** with First Class First rank. His profile is strengthened by a rich portfolio of **global certifications** including **PMI-ACP, CSPO, CSM, A-CSM, ITIL Foundation, Lean Six Sigma Black Belt & Master Black Belt, Azure Fundamentals, Star Python, Kaggle certifications, TigerGraph certifications, Industrial Automation, and multiple AI/RPA and analytics credentials.** 
 
 Positioned at the intersection of **technology, training, and consulting**, Dr. Chakraborty helps organizations **upskill their workforce, adopt data-driven decision-making, improve process quality, and implement continuous improvement initiatives**, while nurturing the next generation of engineers and managers through structured, outcome-oriented learning interventions.
 
@@ -33,7 +33,7 @@ Positioned at the intersection of **technology, training, and consulting**, Dr. 
 | Larsen & Toubro Finance Services (Kolkata, Ranchi, Guwahati and multiple locations) | Magma Fincorp Limited                      | Mahindra Finance                |
 | National Insurance Company Limited                                                  | Nirmal Bang Securities                     | Punjab National Bank            |
 | State Bank of India                                                                 | Tata AIG General Insurance Company Limited | UCO Bank                        |
-| Yes Bank                                                                            |                                            |                                 |
+| Yes Bank                                                                            | Axis Securities                            |                                 |
 
 ---
 
@@ -75,7 +75,7 @@ Positioned at the intersection of **technology, training, and consulting**, Dr. 
 | IBM India Pvt. Ltd.                                                       | Infosys Technologies Limited                       | InterraIT                       |
 | Microsoft (partnered training / enablement context)                       | Mjunction Services Limited                         | Tata Consultancy Services (TCS) |
 | Tech Mahindra                                                             | Web Development Company                            | Webel Informatics Limited       |
-| Wipro Technologies                                                        | Dassault Systèmes                                  |                                 |
+| Wipro Technologies                                                        | Dassault Systèmes                                  | Sify Technologies               |
 
 ---
 
@@ -86,7 +86,8 @@ Positioned at the intersection of **technology, training, and consulting**, Dr. 
 | Bharat Petroleum Corporation Limited (BPCL) | Calcutta Electric Supply Corporation (CESC)       | CESC                                |
 | Dhariwal Infrastructure Limited (CESC)      | Indian Oil Corporation Limited (IOCL)             | NTPC Limited                        |
 | Odisha Hydro Power Corporation              | Oil and Natural Gas Corporation (ONGC)            | ONGC Petro additions Limited (OPaL) |
-| Tata Power                                  | West Bengal Power Development Corporation Limited |                                     |
+| Tata Power                                  | West Bengal Power Development Corporation Limited | Maithon Power Limited               |
+| India Power Limited                         | Techno Power, Rausheena Group                      |                                     |
 
 ---
 
@@ -103,7 +104,8 @@ Positioned at the intersection of **technology, training, and consulting**, Dr. 
 
 | Organization          | Organization | Organization             |
 | --------------------- | ------------ | ------------------------ |
-| Future Retail Limited | ITC Limited  | Metro Cash & Carry India |
+| Future Retail Limited | ITC Limited             | Metro Cash & Carry India |
+| Chengmari Tea Company |                         |                          |
 
 ---
 
@@ -156,7 +158,7 @@ Positioned at the intersection of **technology, training, and consulting**, Dr. 
 | Meghnath Saha Institute of Technology                                      | National Institute of Technology (NIT) – Imphal, Shillong, Dimapur and other NIT campuses as per programs | Netaji Subhas Engineering College                                     |
 | NSHM Engineering College                                                   | Saroj Mohan Institute of Technology                                                                       | Swami Vivekananda Institute of Science and Technology                 |
 | Technical Teacher’s Training Institute, Salt Lake                          | Techno India Group – School of Management                                                                 | Usha Comm and Usha Martin School                                      |
-| EIILM, Jalpaiguri                                                          | Siliguri Institute of Technology                                                                          |                                                                       |
+| EIILM, Jalpaiguri                                                          | Siliguri Institute of Technology                                                                          | JIS University                                                        |
 
 ---
 
@@ -168,7 +170,7 @@ Positioned at the intersection of **technology, training, and consulting**, Dr. 
 
 ---
 
-### Profile Summary (1996 to till date)
+### Profile Summary (1996 to August 2026)
 #### 1️⃣ Total 900+ number of corporate training / consultancy sessions.
 #### 2️⃣ Total 1000+ number of academic training sessions, retail batches and seminars/webinars.
 #### 3️⃣ 250+ distinct companies / corporate, PSU, government, NGO and training-organization clients.
