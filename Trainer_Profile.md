@@ -1,22 +1,64 @@
-
-![image](https://github.com/user-attachments/assets/8a37ad88-a06a-4750-8b42-9f6bfba407c9)
+![Profile Banner](https://github.com/user-attachments/assets/2bff2453-7463-4077-ac4d-04ca86a4ea8f)
 
 ---
 
 # Profile of Dr. Arnab Chakraborty
 
-
 |   |   |
 |---|---|
-| <img width="455" height="231" alt="image" src="https://github.com/user-attachments/assets/c3ce7198-5d79-4c56-b050-8edf66446fcd" /> | **Dr. Arnab Chakraborty**  <br>👤 S/o Late Professor Sudhir Ranjan Chakraborty  <br>📍 Bonhooghly, Kolkata, West Bengal, India – PIN 700035  <br>✉️ Email: arnab@totsol.info · toarnabchak@gmail.com  <br>🌐 Web: www.arnabchakraborty.info  <br>🔗 LinkedIn: https://www.linkedin.com/in/dr-arnab-chakraborty-b632651a/ |
+| <img width="455" height="231" alt="Dr. Arnab Chakraborty — certifications and profile photograph" src="https://github.com/user-attachments/assets/c3ce7198-5d79-4c56-b050-8edf66446fcd" /> | **Dr. Arnab Chakraborty**  <br>**Corporate Trainer · Technology Consultant · Learning & Development Leader**  <br>👤 S/o Late Professor Sudhir Ranjan Chakraborty  <br>📍 Bonhooghly, Kolkata, West Bengal, India – PIN 700035  <br>✉️ Email: arnab@totsol.info · toarnabchak@gmail.com  <br>🌐 Web: http://arnabchakraborty.info/  <br>🔗 LinkedIn: https://www.linkedin.com/in/dr-arnab-chakraborty-b632651a/ |
 
-Dr. Arnab Chakraborty is a seasoned technology educator, corporate trainer, and consultant with **29+ years of teaching experience** in Computer Science and IT, and **15+ years of corporate training and consultancy** across diverse industries in India and abroad. Currently serving as **Director and Head of Learning & Development at TOTSOL Technologies Private Limited (MSME Registered | Udyam Reg. No.: UDYAM-WB-14-0264491).** and Director at TECHSOL Technologies Bangladesh Ltd. and TRADESOL International Ltd., he combines academic depth with hands-on industry exposure in software development methodologies, project management, system analysis, and quality assurance. 
+## Executive Profile
 
-As a **trainer and consultant**, Dr. Chakraborty has designed and delivered high-impact programs on **Data Analytics, AI/ML with Python, Advanced MS Excel and Power BI, Project Management & MS-Project, Agile & Scrum, Six Sigma & Quality Management, Unix/Shell Scripting, Databases, Industrial Automation, and core CS subjects** for leading organizations including banks, manufacturing majors, IT/ITES companies, energy and infrastructure firms, as well as premier engineering and management institutes. He is widely appreciated for his ability to **translate complex technical and analytical concepts into practical, implementation-focused learning**, and for mentoring students and professionals in **final-year projects, technical interviews, and competitive examinations** such as GATE and NET. 
+Dr. Arnab Chakraborty is a seasoned **corporate trainer, technology consultant, academician, and Learning & Development leader** with **32+ years of teaching experience** across academic and non-academic environments and **18+ years of corporate training and consultancy experience** across India and international locations. He currently serves as **Director and Head of Learning & Development at TOTSOL Technologies Private Limited** (MSME Registered | Udyam Reg. No.: UDYAM-WB-14-0264491), **Director at TECHSOL Technologies Bangladesh Ltd.**, **Director at TRADESOL International Ltd.**, and **Assistant Professor of Computer Science at the Institute of Engineering and Management (IEM)**.
 
-Academically, he holds a **Doctor of Business Administration (SSBM Geneva)** with research on global semiconductor shortages, an **M.Tech and B.Tech in Computer Science & Engineering** from the University of Calcutta, and an **MBA** with First Class First rank. His profile is strengthened by a rich portfolio of **global certifications** including **PMI-ACP, CSPO, CSM, A-CSM, ITIL Foundation, Lean Six Sigma Black Belt & Master Black Belt, Azure Fundamentals, Star Python, Kaggle certifications, TigerGraph certifications, Industrial Automation, and multiple AI/RPA and analytics credentials.** 
+He designs and delivers outcome-oriented learning interventions for working professionals, managers, engineers, faculty members, and students. His assignments combine practical demonstrations, business cases, guided exercises, assessments, project mentoring, and implementation-focused consulting. His professional exposure also includes **project management, solution architecture, system analysis, SDLC, quality assurance, process improvement, client engagement, and technical project leadership**.
 
-Positioned at the intersection of **technology, training, and consulting**, Dr. Chakraborty helps organizations **upskill their workforce, adopt data-driven decision-making, improve process quality, and implement continuous improvement initiatives**, while nurturing the next generation of engineers and managers through structured, outcome-oriented learning interventions.
+Dr. Chakraborty is recognised for simplifying complex technical and analytical concepts and converting them into practical workplace capabilities. His work supports organisations in strengthening **data-driven decision-making, AI-enabled productivity, project execution, quality improvement, automation, software capability, and workforce readiness**.
+
+## Current Leadership & Professional Roles
+
+| Role | Organization | Since |
+|---|---|---:|
+| Director & Head of Learning and Development | TOTSOL Technologies Private Limited, India | 2007 |
+| Director | TECHSOL Technologies Bangladesh Ltd., Dhaka, Bangladesh | 2014 |
+| Director | TRADESOL International Ltd., Dhaka, Bangladesh | 2014 |
+| Assistant Professor, Computer Science | Institute of Engineering and Management (IEM), India | 2013 |
+
+## Academic Qualifications
+
+| Qualification | Institution / University | Achievement |
+|---|---|---|
+| Doctor of Business Administration (DBA) | Swiss School of Business and Management, Geneva, Switzerland | Awarded in 2023; thesis on global semiconductor shortages and production delays |
+| Master of Business Administration (MBA) | Vidyasagar University / International Institute of Management Sciences | First Class First, 2011 |
+| M.Tech. in Computer Science & Engineering | University of Calcutta | First Class, 1994 |
+| B.Tech. in Computer Science & Engineering | University of Calcutta | First Class, 1992 |
+| B.Sc. in Physics Honours | University of Calcutta / Scottish Church College | First Class with First Division, 1989 |
+
+## Major Global & Professional Certifications
+
+**Agile, Scrum and Project Management:** PMI Agile Certified Practitioner (PMI-ACP), Certified Scrum Product Owner (CSPO), Certified ScrumMaster (CSM), Advanced Certified ScrumMaster (A-CSM), and PMP training with 35 PMI PDUs.
+
+**Cloud, Data, AI and Programming:** Microsoft Azure Fundamentals (AZ-900), Kaggle Data Cleaning, Star Python, TigerGraph Associate, TigerGraph Graph Algorithms for Machine Learning, Hadoop 2.x Foundation, Microsoft Innovative Educator, and multiple UiPath RPA credentials.
+
+**Quality, Service Management and L&D:** DMAIC Six Sigma Master Black Belt, Lean Six Sigma Black Belt, Six Sigma Green Belt, ITIL® 2011 Foundation, Train the Teacher with NLP, Accredited Management Teacher (AMT), and Industrial Automation certification covering PLC, AC Drive and SCADA.
+
+## Training & Consulting Delivery Portfolio
+
+| Capability Area | Technologies, Tools and Topics Delivered |
+|---|---|
+| **Generative AI & Workplace Productivity** | ChatGPT, Claude, Microsoft Copilot, prompt engineering, AI models for workplace productivity and communication, AI-assisted Excel and PowerPoint, AI video generation, and AI-supported design workflows |
+| **Data Analytics & Business Intelligence** | Advanced MS-Excel/O365, Excel VBA, Power Query, Power Pivot, dashboards, Power BI, Tableau, Minitab, Statgraphics, data cleaning, business analytics, marketing analytics, HR analytics, Python, R and PySpark |
+| **Artificial Intelligence & Machine Learning** | Machine learning, deep learning, neural networks, data science, cloud computing for ML, graph analytics, Python-based ML projects and model-oriented project mentoring |
+| **Project, Agile & Quality Management** | Project management with MS Project, Agile, Scrum, SDLC, software configuration management, ITIL/ITSM, Six Sigma, Lean, TQM, 5S, Kaizen, quality analytics and process improvement |
+| **Programming & Software Engineering** | Python, R, C, C++, Java, J2EE, Kotlin, Scala, Perl, JavaScript, Node.js, Unix/Linux, shell scripting, Android, data structures and algorithms, competitive coding, OOAD, UML and design patterns |
+| **Databases, Big Data & Platforms** | Oracle, PL/SQL, MySQL, SQL Server, SQLite, MongoDB, Cassandra, HBase, Hive, TigerGraph, Hadoop, Spark, Pig and Oozie |
+| **Automation & Engineering Technologies** | UiPath, Power Automate, PLC, SCADA, microcontrollers, industrial automation, AutoCAD, PSpice, digital and analog electronics, computer hardware and networking |
+| **Academic & Employability Development** | Faculty Development Programs, final-year projects, TCS-NQT and campus recruitment preparation, GATE/NET guidance, technical interviews, coding foundations, DBMS and core Computer Science subjects |
+
+## Selected Prime Clients
+
+Representative clients include **Accenture, IBM India, Ericsson Global Services, Larsen & Toubro, Tata Steel, Tata Power, Tata AIG, CESC, Maithon Power, Indian Oil, BPCL, ONGC, Star Cement, UltraTech Cement, Bajaj Finance, Bajaj FinServ, Bandhan Bank, IDBI Bank, UCO Bank, ICICI Bank, Yes Bank, Deloitte, Ernst & Young, PwC, KPMG, Genpact, Comcast, Vodafone, Sify Technologies, DLF, TDK Electronics, Sureka Group, Wacker Metroark Chemicals, Crescent Foundry, Siemens, ABB, HP/HPE, ITC, L'Oréal, and multiple PSUs, manufacturing organisations, universities, engineering colleges and management institutes**.
 
 ## Organizations Benefited from his Training & Consulting (Sector-wise)
 
@@ -170,10 +212,15 @@ Positioned at the intersection of **technology, training, and consulting**, Dr. 
 
 ---
 
-### Profile Summary (1996 to August 2026)
-#### 1️⃣ Total 900+ number of corporate training / consultancy sessions.
-#### 2️⃣ Total 1000+ number of academic training sessions, retail batches and seminars/webinars.
-#### 3️⃣ 250+ distinct companies / corporate, PSU, government, NGO and training-organization clients.
-#### 4️⃣ 25+ distinct academic institutions (colleges / universities, B-schools) clients.
+### Profile Summary (1994 to August 2026)
+
+#### 1️⃣ **32+ years** of teaching, academic mentoring and capability development experience.
+#### 2️⃣ **18+ years** of corporate training and consultancy experience across India and international locations.
+#### 3️⃣ **900+** corporate training and consultancy sessions delivered.
+#### 4️⃣ **1000+** academic training sessions, retail batches, seminars and webinars conducted.
+#### 5️⃣ **250+** distinct corporate, PSU, government, NGO and training-organisation clients served.
+#### 6️⃣ **25+** distinct colleges, universities, engineering institutes and business schools engaged.
 
 ---
+
+*This concise profile presents selected highlights from Dr. Arnab Chakraborty’s comprehensive professional, academic, training and consulting portfolio.*
