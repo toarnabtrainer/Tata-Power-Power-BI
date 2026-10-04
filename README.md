@@ -21,7 +21,7 @@
 **Important Classwork Resources:**<br>
 * **☑️ HTML Color Codes Web-Link-1:** <https://colorhunt.co/> <br>
 * **☑️ HTML Color Codes Web-Link-2:** <https://htmlcolorcodes.com/> <br>
-* **☑️ Dashboard Background Image Lnk:** <https://www.freepik.com/free-photos-vectors/dashboard-background> <br>
+* **☑️ Dashboard Background Image Lnk:** <https://www.magnific.com/free-photos-vectors/dashboard-background> <br>
 * **☑️ PDF Link on the Cloud:** <https://racemedia1.s3.ap-south-1.amazonaws.com/wp-content/uploads/20240103171943/Countries-Capitals.pdf> <br>
 * **☑️ Web Portal Link-1:** <https://worldpopulationreview.com/countries>
 * **☑️ Web Portal Link-2:** <https://www.contextures.com/xlsampledata01.html>
