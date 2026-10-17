@@ -16,7 +16,8 @@
 * **☑️ Tutorial and Official Documentation on MS-Power BI Link:** https://docs.microsoft.com/en-us/power-bi/desktop-create-and-manage-relationships <br>
 * **☑️ Learn Power BI:** https://powerbi.microsoft.com/en-us/learning/ <br>
 * **☑️ Power BI for Absolute Beginners:** https://www.tutorialspoint.com/power_bi/index.htm <br>
-* **☑️ Microsoft E-Book on MS-Power BI Download Link:** https://download.microsoft.com/download/0/8/1/0816F8D1-D1A5-4F60-9AF5-BC91E18D6D64/Microsoft_Press_ebook_Introducing_Power_BI_PDF_mobile.pdf
+* **☑️ Microsoft E-Book on MS-Power BI Download Link:** https://download.microsoft.com/download/0/8/1/0816F8D1-D1A5-4F60-9AF5-BC91E18D6D64/Microsoft_Press_ebook_Introducing_Power_BI_PDF_mobile.pdf <br>
+* **☑️ Microsoft Power BI Data Analyst Professional Certificate:** https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst
 
 **Important Classwork Resources:**<br>
 * **☑️ HTML Color Codes Web-Link-1:** <https://colorhunt.co/> <br>
